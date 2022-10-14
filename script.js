@@ -37,6 +37,7 @@ let words = [
    "Etihad",
    "Craven Cottage",
    "the city ground",
+   "vitality"
 ];
 let word;
 
